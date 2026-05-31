@@ -1,0 +1,12 @@
+{
+  "name": "auto-improver",
+  "version": "1.0.0",
+  "description": "Automatically test, evaluate, and improve Claude Code skills using the skill-creator framework",
+  "bin": {
+    "aim": "./bin/aim.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
